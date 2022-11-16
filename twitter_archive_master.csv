@@ -1,0 +1,1 @@
+in_reply_to_user_id,timestamp,source,text,retweeted_status_id,rating_numerator,rating_denominator,name,retweet_count_x,favorite_count_x,jpg_url_x,img_num_x,p1_x,p1_conf_x,p1_dog_x,p2_x,p2_conf_x,p2_dog_x,p3_x,p3_conf_x,p3_dog_x,retweet_count_y,favorite_count_y,tweet_id,jpg_url_y,img_num_y,p1_y,p1_conf_y,p1_dog_y,p2_y,p2_conf_y,p2_dog_y,p3_y,p3_conf_y,p3_dog_y
